@@ -5,3 +5,5 @@ Karayiannidis, Y., Papageorgiou, D., & Doulgeri, Z. (2016). A model-free control
 I proved the boundedness of this controller under certain choice of parameters for a nonlinear inverted pendulum.
 
 The controller controls \theta with the proposed controller, while \theta_d is used to control x (position of chart) through a PD controller.
+
+Please refer to the PDF included for the furthur information and the proofs.
